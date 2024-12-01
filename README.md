@@ -1,1 +1,1 @@
-# -ShoppyGlobe-E-commerce-App
+# ShoppyGlobe-E-commerce-App
